@@ -10,6 +10,11 @@
     "categories": [
         "Themes"
     ],
+    "extensionKind": [
+        "ui",
+        "workspace",
+        "web"
+    ],
     "contributes": {
         "themes": [
             {
