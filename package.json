@@ -1,0 +1,22 @@
+{
+    "name": "test-theme",
+    "displayName": "test-theme",
+    "description": "My Test Theme",
+    "publisher": "aeschli",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Test",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Test-color-theme.json"
+            }
+        ]
+    }
+}
